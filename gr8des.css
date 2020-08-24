@@ -529,6 +529,9 @@ hr {
 .MoveToTheCenter{
 	text-align:center;
 }
+.marginToMove {
+  margin: 25px;
+}
 
 .changeBackground_third{
 	background-color: #ffffff;
