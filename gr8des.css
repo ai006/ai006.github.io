@@ -429,6 +429,10 @@ hr {
 .gr8des-tagline .app-store-badges {
   text-align: center;
 }
+.gr8des-tagline .ios-store-badges {
+  text-align: center;
+  margin-top: 5px;
+}
 .footer {
   padding-top: 24px;
   padding-bottom: 18px;
